@@ -41,7 +41,7 @@ experience:
     location: Beijing, China
     date_start: '2019-09-01'
     date_end: '2023-07-01'
-    description: My dissertation was on X
+    description: My dissertation was on
 
 design:
   columns: '1'
