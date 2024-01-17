@@ -36,7 +36,7 @@ experience:
 
   - title: BSc Intelligence Science and Technology
     company: Peking University
-    company_url: ''
+    company_url: 'https://www.pku.edu.cn'
     company_logo: pku
     location: Beijing, China
     date_start: '2019-09-01'
