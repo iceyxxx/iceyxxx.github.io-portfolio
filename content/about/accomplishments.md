@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Honors&shy;Awards'
+title: 'Honors&&shy;Awards'
 subtitle:
 
 # Date format
@@ -27,24 +27,22 @@ item:
     date_start: '2018-11-16'
     description: ''
     organization: Chinese Mathematical Society
-    title: Chinese Mathematical Olympiad
+    title: Silver Medal in Chinese Mathematical Olympiad(CMO)
     url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+  - date_end: ''
+    date_start: '2017-11-11'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: China Computer Federation
+    title: First Prize in National Olympiad in Informatics in Provinces(NOIP)
     url: ''
+#  - certificate_url: https://www.datacamp.com
+#    date_end: '2020-12-21'
+#    date_start: '2020-07-01'
+#    description: ''
+#    organization: DataCamp
+#    organization_url: https://www.datacamp.com
+#    title: 'Object-Oriented Programming in R'
+#    url: ''
 
 design:
   columns: '1'
