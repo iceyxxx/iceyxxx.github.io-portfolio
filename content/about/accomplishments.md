@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Honors&shy;Awards'
 subtitle:
 
 # Date format
@@ -20,7 +20,7 @@ date_format: Jan 2006
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
 #   `title`, `organization`, and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
+#   Leave other parameters empty if not required.1
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - date_end: ''
