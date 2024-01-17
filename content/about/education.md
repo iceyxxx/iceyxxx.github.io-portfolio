@@ -37,7 +37,7 @@ experience:
   - title: BSc Intelligence Science and Technology
     company: Peking University
     company_url: ''
-    company_logo: hero/arrow-down-right
+    company_logo: hero/arrow-down-right.svg
     location: Beijing, China
     date_start: '2019-09-01'
     date_end: '2023-07-01'
