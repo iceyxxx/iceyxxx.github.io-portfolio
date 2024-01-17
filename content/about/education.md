@@ -34,14 +34,14 @@ experience:
 #        * Basketball team
 #        * DJ club
 
-  - title: BSc Intelligence Science and Technology
+  - title: BSc Intelligence Science and Technology (Turing Class)
     company: Peking University
     company_url: 'https://www.pku.edu.cn'
     company_logo: pku
     location: Beijing, China
     date_start: '2019-09-01'
     date_end: '2023-07-01'
-    description: My dissertation was on
+    description: SUMMA CUM LAUDE
 
 design:
   columns: '1'

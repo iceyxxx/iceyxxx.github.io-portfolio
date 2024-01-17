@@ -22,28 +22,35 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Numerical Game Designer (Intern)
+    company: Thunder Fire Studio
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Hangzhou, China
+    date_start: '2021-07-12'
+    date_end: '2021-08-29'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Utilized Unity to configure game files
+        * Performed market research for competitive games and drafted research reports
+        * Collaborated with the Fuxi AI Support team
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+
+  - title: Receptionist (Intern)
+    company: PKU Chen Zhonggeng Clinical Psychology Center
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: pku
+    location: Beijing, China
+    date_start: '2022-09-01'
+    date_end: '2023-06-30'
+    description: |2-
+        Responsibilities include:
+        
+        * Received, sorted inquiries, and matched clients
+        * Answered phone calls and solved inquiries in different categories
+        * Accepted weekly training through case study and perceived evaluation and counseling knowledge
+
 
 design:
   columns: '1'

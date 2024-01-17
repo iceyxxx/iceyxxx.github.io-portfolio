@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Honors&&shy;Awards'
+title: 'Honors & &shy;Awards'
 subtitle:
 
 # Date format
@@ -27,13 +27,13 @@ item:
     date_start: '2018-11-16'
     description: ''
     organization: Chinese Mathematical Society
-    title: Silver Medal in Chinese Mathematical Olympiad(CMO)
+    title: Silver Medal in Chinese Mathematical Olympiad (CMO)
     url: ''
   - date_end: ''
     date_start: '2017-11-11'
     description: ''
     organization: China Computer Federation
-    title: First Prize in National Olympiad in Informatics in Provinces(NOIP)
+    title: First Prize in National Olympiad in Informatics in Provinces (NOIP)
     url: ''
 #  - certificate_url: https://www.datacamp.com
 #    date_end: '2020-12-21'
