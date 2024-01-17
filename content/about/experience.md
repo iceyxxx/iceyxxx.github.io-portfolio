@@ -25,7 +25,7 @@ experience:
   - title: Numerical Game Designer (Intern)
     company: Thunder Fire Studio
     company_url: ''
-    company_logo: org-gc
+    company_logo: netease
     location: Hangzhou, China
     date_start: '2021-07-12'
     date_end: '2021-08-29'
