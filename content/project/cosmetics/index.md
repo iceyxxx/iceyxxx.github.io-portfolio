@@ -1,5 +1,5 @@
 ---
-title: Cosmetics Semantic Search
+title: Alone but not Lonely
 summary: Write about your project here...
 tags:
   - Psychology

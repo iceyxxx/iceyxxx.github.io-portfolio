@@ -1,6 +1,6 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: Icon Generator
+summary: Generate icons from real images
 tags:
   - Vision
 date: 2022-01-01
