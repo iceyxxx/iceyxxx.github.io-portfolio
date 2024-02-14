@@ -1,8 +1,8 @@
 ---
 title: Alone but not Lonely
-summary: Write about your project here...
+summary: Sentence Similarity Analysis for Psychology Research
 tags:
   - Psychology
-date: 2022-01-01
-external_link: http://github.com
+date: 2023-02-01
+external_link: https://github.com/iceyxxx/Alone-but-not-Lonely-Study-1
 ---
